@@ -90,7 +90,6 @@ This project is build with:
 
 ## 🤝 Contributor
 
-
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/kingqabil/hello-rails-back-end/issues).
