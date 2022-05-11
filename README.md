@@ -20,9 +20,9 @@ To get a local copy for this project and running follow these simple example ste
 
 ## Link
 
-[react-front-end]()
+[react-front-end](https://github.com/kingqabil/hello-react-front-end/tree/Setup)
 
-[heroku]()
+[heroku](https://kingqabil-api.herokuapp.com/api/messages)
 
 ## Setup
 
